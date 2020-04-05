@@ -1,0 +1,98 @@
+.centerText{
+
+    text-align: center !important
+}
+
+.textboxWidth{
+
+
+    width:70%
+}
+
+.loginTextLoginPage{
+    text-align: center !important;
+    margin-top:100px;
+    font-size:38px;
+    color:#6063c7
+
+}
+
+.labelText{
+    font-weight: bolder
+}
+
+.sidenav {
+    height: 100%;
+    width: 200px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #61acd7;
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+
+  .main {
+    margin-left: 160px; /* Same as the width of the sidenav */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
+  
+
+  .paperStyle{
+      
+    padding:20px
+  }
+
+  .fontSizeLabel1{
+      font-size :14px !important;
+      font-weight:700 !important
+  }
+
+  .react-multi-carousel-list{
+      margin-top: 30px;
+      /* background-color: #f5eded */
+
+  }
+
+  .paddingCorousel{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 25px;
+    border-radius: 20px
+  }
+  .imageHeading{
+
+    font-size:20px
+  }
+  .imageDetailsPart{
+      margin-top: 20px;
+    border:1px solid #e2dcdc;
+    padding:10px;
+    border-radius:7px
+  }
+  .colorDescription{
+
+    font-size: 15px;
+    color: grey;
+  }
+
+  .buttonStyleScan{
+    padding-left: 52px;
+    padding-right: 52px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 16px;
+    background-color: #de8383;
+    color: white;
+    display: block;
+    margin:auto
+  }
+
+  @media only screen and (max-width: 500px) {
+    .paddingImageSection {
+   padding: 30px !important
+    }
+  }
